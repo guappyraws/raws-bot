@@ -6,11 +6,11 @@ import asyncio
 # ══════════════════════════════════════════════
 #  CONFIG — edit these
 # ══════════════════════════════════════════════
-BOT_TOKEN      = "YOUR_BOT_TOKEN_HERE"
-GUILD_ID       = 123456789012345678   # your server ID
-TICKET_CATEGORY= 123456789012345678   # category ID where tickets go
-SUPPORT_ROLE   = 123456789012345678   # role ID that can see tickets
-TICKET_CHANNEL = 123456789012345678   # channel ID where the panel is sent
+BOT_TOKEN      = "MTU3MjUxOTM1NjExNjc3MDk0Nw.G-srQh.LXKXR2bWf1-UfAIk7UbhVWqU-n2HKoOGv6iGJs"
+GUILD_ID       = 1564278474212900884   # your server ID
+TICKET_CATEGORY= 1564517463947878421   # category ID where tickets go
+SUPPORT_ROLE   = 1564287931630227456   # role ID that can see tickets
+TICKET_CHANNEL = 1564517673545637998   # channel ID where the panel is sent
 
 # ══════════════════════════════════════════════
 #  BOT SETUP
